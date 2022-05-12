@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bob Pham, a full-stack developer, living in Melbourne, Au
+- 👋 Hi, I’m Bob Pham, a full-stack DotNet developer, living in Melbourne, Au
 - 👀 I’m interested in software architechture, frontend frameworks and containers
 - 🌱 I’m currently learning python, machine learning and K8s
 - 📫 Reach me: bobpham.tdp@gmail.com

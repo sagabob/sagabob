@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Bob Pham, a full-stack DotNet developer, living in Melbourne, Au
-- 👀 I’m interested in software architechture, frontend frameworks and containers
-- 🌱 I’m currently learning python, machine learning and K8s
+- 👋 Hi, I’m Bob Pham, a full-stack DotNet developer, living in Melbourne, Australia.
+- 👀 I’m interested in software architechture, frontend frameworks and containers.
+- 🌱 I’m currently learning python, machine learning and K8s.
 - 📫 Reach me: bobpham.tdp@gmail.com
   <!---
 sagabob/sagabob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
